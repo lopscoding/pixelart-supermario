@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+table {
+    width: 50px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.preto {
+    background-color: black;
+}
+
+.azul {
+    background-color: #0707b1;
+}
+
+.vermelho {
+    background-color: #a80c0c;
+}
+
+.marrom {
+    background-color: #300d0d;
+}
