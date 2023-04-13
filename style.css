@@ -7,7 +7,7 @@ table {
 }
 
 td {
-    border: 1px solid black;
+    border: 1px solid rgba(0, 0, 0, 0);
     padding: 8px;
 }
 
@@ -16,7 +16,7 @@ td {
 }
 
 .azul {
-    background-color: #0707b1;
+    background-color: #0909a0;
 }
 
 .vermelho {
@@ -24,7 +24,7 @@ td {
 }
 
 .marrom {
-    background-color: #300d0d;
+    background-color: #642525;
 }
 
 .pele {
