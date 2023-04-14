@@ -4,7 +4,9 @@ table {
     width: 50px;
     border-collapse: collapse;
     text-align: center;
+    margin: auto;
 }
+
 
 td {
     border: 1px solid rgba(0, 0, 0, 0);
@@ -28,5 +30,10 @@ td {
 }
 
 .pele {
-    background-color: #e2cbcf;
+    background-color: #fcd5b5;
+}
+
+footer {
+    text-align: center;
+    
 }
